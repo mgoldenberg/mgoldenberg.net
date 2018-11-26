@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/mgoldenberg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mgoldenberg.net
+  * I am mgoldenberg (https://keybase.io/mgoldenberg) on keybase.
+  * I have a public key with fingerprint 4EAA A2E8 327C C3F3 0B3E  E080 311E 31E5 7192 8D26
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017f81f52092799b03da19a84fa7b43d946e9260a2c2f3a31f85c5c6bc4967e3af0a",
+      "fingerprint": "4eaaa2e8327cc3f30b3ee080311e31e571928d26",
+      "host": "keybase.io",
+      "key_id": "311e31e571928d26",
+      "kid": "01017f81f52092799b03da19a84fa7b43d946e9260a2c2f3a31f85c5c6bc4967e3af0a",
+      "uid": "b9b4fe2b13c841a31fa391a6ffa89c19",
+      "username": "mgoldenberg"
+    },
+    "service": {
+      "hostname": "mgoldenberg.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1543007457,
+  "expire_in": 157680000,
+  "prev": "c9e28804b9c42f1a1e379e97770ba473b4cf51ab4fb988f6a52cf3f437f7e097",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtMFFcYXRACIg8NSTFWeUyLwQp03o+FgDHtWogoRogEKevM7J1hYJlZ9yWw
+AraRh6VWWx+xYKy1jW2hATEtEdG2Pgqp2wIiXVBKeBSqhUgbQIMFsTOk/mp/9v65
+ud93zrnnO/mOBi3TBXgh4cj43g8Or/dy/87pds8V7nBBnGIqhvQuqAAsXcBsAja7
+sUAyQXoIRmCEEmhEIFCYQSmG4WDMxCIMS+MCS3E4ZmJwEjAoCbMojwoYiyECTfAE
+T3I8zpAUwFgBZqFYSJBkEVgtVkm2q7I4YFkWBTSGUjyPCRjMYQDANIwhCMAQQFAI
+g9ImlFSJeYpNY6jmONYG4iVFrakP45K9/8D/z74dS3Icw+ECQDkE42kc0cAsxiAs
+KQgszfAIowFtwCqzhUBFF4qKmqHMAasIlcZCasMp8UDLVhvm36B4GdhVBYtVsSu8
+YlabeXa7xabXyPZii4beBzjjPzpGTpJNapoqwwmsNkmRIT2iInm7pAkjBI7BMIUT
+VCwEiiySFRglDUFQJA2rR/sHOFVJPpcBKE3DOMfwOCogrBolxQCGoiiYY3EK43Be
+IBBWnZxjaFogWQLlBUzAMUqgAMxQkDbaXlmB9JjqkxVVTZskyqzdYQVQacAhb8xH
+5xWgW/dClM+2+nMP0P03ZlYkDR94voG+3tr66QKWr3xeObkYskgNSExiNdlaMtDR
+FZc1fbAxc6LWXJced/WmYbir1xVRZLh1ejhstmpNLrLlm3K/tcZl2/q+dt0Ye9rf
+Vj8eEvFk9sN2Pd159j2ve896PJ17VjrfRj1XHhWZT/t+0VRm0F0fPfFp9tRE1/2q
+NOdqvmbm280H4xu3Jg+27F5X3PxuTN1AZEqPR0avDPt3W5vdfmcSfyn405DjFh+b
+UhvXHh8OrEnof7FqtLs5qnrsmNw9kZxG/Oo7cyC01/HoXMb5Ms5jetjoSkn/zLdv
+VV15+LUK0jnXE7crO2PBP6LFVnaxKE+MuR9G5ta4vb/cbw7ovyAWLHBVTFB4bU3Y
+55nG1clnBi7MhV26eikXUo6a0ZxTbx25LIZeKxHc3CtNh6aiN/Ax8yUfR+5KaYps
+zP8t8eUnlT4JSkO9PtNS2l2Z9Zr4uK11xFPRMPXVnSw+yb+3uHXFxapRg7s+YeOd
+jttNC2Kre/zBydHN7eWpjpFNAzetl0+cIo6VlU5sTa8EtZ21fh2G/P7kwMCcBDB/
+N2n6ry2L+Ox27zcydr5ff6T6+vF3XtJHp+7b9FGfSx765M2HE5PK+Wfuvtz1O++2
+dHW0DFFtT4M9y8fS7lWE+H0/90dXf8h3URt/HNyA4oNDwT9kt7++5qfg21i0wX42
+r276VvUkOf9qmiMf1Igj6TvG92CTPzt8G0KD/gY=
+=1B5m
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mgoldenberg
+
+==================================================================
+
